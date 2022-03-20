@@ -1,9 +1,10 @@
 .navbar {
-    background-color: #27AE60;
+    background-color: #A569BD;
+    padding-bottom:90px;
 }
 
-.quemsou{
-    background-color: #A569BD;
+.sobremim{
+    background-color: #A2E25B;
     padding-top: 100px;
     padding-bottom: 50px;
     color: white;
@@ -13,7 +14,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.parceiros{
-    background-color: #A3E4D7;
+.redesociais{
+    background-color: #E25B5F;
     padding: 200px;
+}
+
+footer{
+    background-color: #5BE2DF;
 }
